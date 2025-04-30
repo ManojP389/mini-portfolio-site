@@ -1,2 +1,3 @@
 # mini-portfolio-site
-My first mini-portfolio site built using with HTML,CSS. It showcases my basic web development skills and looking to enhance this skills for top notch level.
+My first mini project, a clean and responsive mini portfolio website designed with HTML and CSSS.This project demonstrates my passion for web development and my ability to create elegant, user-friendly designs.
+Thankyou for visiting my project, feedback and suggestions are always welcome.
